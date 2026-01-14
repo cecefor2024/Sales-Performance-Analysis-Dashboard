@@ -1,5 +1,7 @@
 # Sales-Performance-Analysis-Dashboard
 
+LINK TO VIEW PROJECT ON POWERBI.COM: https://app.powerbi.com/groups/me/reports/433ddb66-d729-45cf-8ea7-71765a8308a8/d5c5a541be6038a6f472?experience=power-bi
+
 Project Overview-
 Provides a comprehensive view of sales performance for a computer hardware company operating in a changing market. It identifies key performance indicators, visualizes sales trends, and highlights actionable insights to help management improve decision-making and optimize business operations.
 
